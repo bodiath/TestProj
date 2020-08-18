@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     let task = 5
+    let test = 67
     override func viewDidLoad() {
         super.viewDidLoad()
     }
