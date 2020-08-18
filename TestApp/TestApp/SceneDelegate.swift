@@ -9,7 +9,8 @@
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
-
+    var a = "sdfsfd"
+    var b = 234234
     var window: UIWindow?
 
     let task = 34

@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         let url = URL(fileURLWithPath: "www.jsp.com")
+        var a = "sfdsdfas"
     }
 
 
